@@ -53,6 +53,17 @@ Common components include:
 - Navigation (`.navbar`)
 - Typography (`.title`, `.subtitle`, `.description`)
 
+## Portfolio Content Draft
+
+A complete set of professional, ready-to-use content for the portfolio sections (Hero, About, Projects, Skills, Testimonials, Contact, Blog, and Design/UX Guidance) is provided here:
+
+- `content/portfolio-content.md`
+
+You can:
+- Copy sections into React components (e.g., `src/sections/Hero.jsx`, `src/sections/About.jsx`, etc.)
+- Parse the markdown at runtime with your preferred library if desired
+- Use the Design/UX guidance section to implement a cohesive and accessible layout
+
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
